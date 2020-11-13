@@ -27,7 +27,5 @@ If want to see multiple results, run the test files.
 Initial holes generating policy is DFS policy in 'Sarsa_and_Qlearning_random_environment'.
 (Can be changed in maze_env.py in that folder.)
 -----------------------------------------------------------------
-Once there is any problem, please contact me.
-Thank you prof for your patience.
 -----------------------------------------------------------------
 Yue Zenglin 岳增霖 2020.10 Mail Address e0575902@u.nus.edu
